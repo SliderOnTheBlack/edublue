@@ -1,3 +1,4 @@
+[![build-ublue-image-iso](https://github.com/SliderOnTheBlack/edublue/actions/workflows/build_iso.yml/badge.svg)](https://github.com/SliderOnTheBlack/edublue/actions/workflows/build_iso.yml)
 # image-template
 
 # Purpose
