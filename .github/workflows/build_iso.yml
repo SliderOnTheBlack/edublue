@@ -163,7 +163,7 @@ jobs:
         with:
           arch: x86_64
           image_name: edublue
-          image_repo: ghcr.io/SliderOnTheBlack
+          image_repo: ghcr.io/sliderontheblack
           variant: 'Kinoite'
           version: '40'
           secure_boot_key_url: 'https://github.com/ublue-os/akmods/raw/main/certs/public_key.der'
